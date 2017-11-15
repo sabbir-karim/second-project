@@ -1,0 +1,83 @@
+body{
+	margin: 0 auto;
+	padding: 0;
+	text-align: center;
+	vertical-align: middle;
+	
+}
+.main{
+	background: #015b51;
+	height: 830px;
+	margin: 0 auto;
+	padding:10px
+}
+.nav{
+	background: #5b4e01;
+	height: 25px;
+	line-height: 25px;
+	color:white;
+}
+.menu{
+	background: green;
+	height: 80px;
+	line-height: 80px;
+}
+.logo{
+	background: #912763;
+	height: 80px;
+	width: 20%;
+	float: left;
+}
+.header{
+	background: #7c5b17;
+	height: 80px;
+	width: 80%;
+	float: left;
+}
+.content{
+	background: black;
+	height: 700px;
+}
+.about{
+    background: #e77a52;
+    height: 175px;
+    width: 30%;
+    float: left;
+    line-height: 100px;
+}
+.news{
+	background: #1e3250;
+	height: 700px;
+	width: 70%;
+	float: left;
+	line-height: 700px;
+	color:white;
+}
+
+.facebook{
+    background: #00a388;
+    height: 175px;
+    width: 30%;
+    float: left;
+    line-height: 100px;
+}
+.blog{
+    background: #ffff9d;
+    height: 175px;
+    width: 30%;
+    float: left;
+    line-height: 100px;
+}
+.twitter{
+    background: #e1d7ba;
+    height: 175px;
+    width: 30%;
+    float: left;
+    line-height: 100px;
+}
+
+.footer{
+	background: #6b6b6b;
+	height: 100px;
+	line-height: 25px;
+}
